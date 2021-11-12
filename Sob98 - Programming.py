@@ -1,0 +1,30 @@
+Python 3.10.0 (tags/v3.10.0:b494f59, Oct  4 2021, 19:00:18) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+a=10
+print(a>12)
+False
+b=4
+print(b==2)
+False
+c=5
+print(c<7)
+True
+d=6
+print(d<4)
+False
+e=8
+print(e==2)
+False
+y=9
+print(y>2)
+True
+print(y==1)
+False
+print(y>3)
+True
+print(y<11)
+True
+print(y<4)
+False
+print(y>8)
+True
